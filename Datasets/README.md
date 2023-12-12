@@ -1,6 +1,4 @@
-## Project Structure
-
-This repository showcases the final project for INDE 577 - Data Science and Machine Learning, instructed by Randy R. Davila. Our project encompasses various machine learning models and techniques, each applied to real-world datasets. Below, we introduce the five datasets used in our project.
+Below, we introduce the five datasets used in our project.
 
 ### Albumlist Dataset
 
@@ -21,8 +19,3 @@ We utilize two essential datasets for image classification tasks:
 
 The **Spotify 2023** dataset offers a comprehensive view of the most streamed songs in 2023 on Spotify. With detailed information about each song's attributes, popularity, and presence on various music platforms, it presents exciting opportunities for music analysis. Key features include track names, artist names, release dates, streaming statistics, and audio features.
 
-## Repository Navigation
-
-Explore our project by navigating to the respective folders within this repository, corresponding to the machine learning models used (e.g., Supervised Learning, Unsupervised Learning, Reinforcement Learning). Each section includes detailed implementations, analyses, and Jupyter notebooks that leverage these datasets to showcase various aspects of data science and machine learning.
-
-Thank you for exploring our final project repository. We hope you find our analyses and implementations insightful and informative.
